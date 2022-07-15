@@ -1,0 +1,21 @@
+[
+  { "title": ".Net C#", "process": 98 },
+  { "title": "Javascript", "process": 95 },
+  { "title": "Typescript", "process": 95 },
+  { "title": "Java", "process": 90 },
+  { "title": "Python", "process": 80 },
+  { "title": "Asp.net Core", "process": 85 },
+  { "title": "Asp.net MVC", "process": 85 },
+  { "title": "SQL Server", "process": 90 },
+  { "title": "Asp.net WebAPI", "process": 85 },
+  { "title": "HTML", "process": 100 },
+  { "title": "CSS", "process": 100 },
+  { "title": "Bootstrap", "process": 100 },
+  { "title": "UiKit", "process": 100 },
+  { "title": "UiKit", "process": 100 },
+  { "title": "Android Studio", "process": 90 },
+  { "title": "Git", "process": 90 },
+  { "title": "Angular", "process": 80 },
+  { "title": "React.JS", "process": 85 },
+  { "title": "Next.JS", "process": 85 }
+]
